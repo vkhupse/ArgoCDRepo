@@ -5,7 +5,7 @@ metadata:
   labels:
     app: meharpod
 spec:
-  replicas: 6
+  replicas: 1
   selector:
     matchLabels:
       laila: majnu
